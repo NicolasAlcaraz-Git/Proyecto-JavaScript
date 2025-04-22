@@ -1,5 +1,5 @@
 //definición de variables
-let num1 = 9                                            //se asigna el valor 1 a la variable num1         
+let num1 = 7                                            //se asigna el valor 1 a la variable num1         
 let num2 = 1                                            //se asigna el valor 9 a la variable num2
 
 //proceso
