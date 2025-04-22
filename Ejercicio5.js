@@ -1,4 +1,4 @@
-// definicion de variables
+//definicion de variables
 let palabra = "DRAGÓN"                   //se asigna la palabra "DRAGÓN" a la variable palabra
 
 //ingreso de numero
